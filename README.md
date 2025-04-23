@@ -30,7 +30,7 @@ Contiene el método `main()` que ejecuta el flujo de la prueba, usando las clase
 
 Sigue los pasos a continuación para completar el ejercicio de repaso. **No se debe modificar el arreglo predefinido de libros** en la clase `App`.
 
-Se debe ordenar el arreglo de libros por el atributo **name** en orden **Descendente** (de la Z a la A) con el metodo **INSERCIÓN**. Además, se debe realizar una búsqueda binaria para encontrar un libro con un nombre específico, ignorando mayúsculas y minúsculas en la comparación tanto para el ordenamietno como la busqueda.
+Se debe ordenar el arreglo de libros por el atributo **name** en orden **Ascendente** (de la Z a la A) con el metodo **BURBUJA MEJORADO**. Además, se debe realizar una búsqueda binaria para encontrar un libro con un nombre específico, ignorando mayúsculas y minúsculas en la comparación tanto para el ordenamietno como la busqueda.
 
 ```java
 // Método para ordenar libros por nombre en orden descendente
